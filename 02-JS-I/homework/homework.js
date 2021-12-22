@@ -27,35 +27,35 @@ const nuevoModulo = 21 % 5 === 1;
 
 function devolverString(str) {
   return str;
-  devolverString('Prueba');
+  
   
 }
  
 function suma(x, y) {
   return x + y;
   
-  suma(4,5);
+  
   
 }
 
 function resta(x, y) {
   return x - y;
   
-  resta(4, 2);
+  
   
 }
 
 function multiplica(x, y) {
   return x * y;
   
-  multiplica(4, 5);
+ 
   
 }
 
 function divide(x, y) {
   return x / y;
   
-  divide(4,5);
+  
   
 }
 
@@ -67,7 +67,7 @@ function sonIguales(x, y) {
   }
 
 
-  sonIguales(1, 1);
+  
   
 }
 
@@ -81,7 +81,7 @@ function tienenMismaLongitud(str1, str2) {
     return false;
   }
 
-  tienenMismaLongitud('Mango', 'Perro');
+  
 }
 
 function menosQueNoventa(num) {
