@@ -1,0 +1,7 @@
+Bucle for: lo utilizamos para iterar una o más intrucciones que se ejecutaran el número de veces que tengamos ya determinado, según la condición que definamos para evaluar cada vez que comience una iteración del bucle.
+
+&&: el operador "and" lo utilizamos para añadir mas condiciones que se deberán cumplir.
+
+||: el operador "or" lo utilizamos para añadir mas condiciones que seran evaluadas y si alguna es true, se detiene y nos retorna el valor.
+
+!: lo usamos para comparar si los operandos son diferentes y retorna true.
