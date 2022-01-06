@@ -1,0 +1,42 @@
+body {
+    background-image: url(../img/bg-pattern.png);
+    background-color: rgb(161, 97, 12);
+}
+
+h1 {
+    color: aliceblue;
+}
+h1, h3, h4 {
+    text-align: center;
+    color: aliceblue;
+}
+ul {
+    list-style: none;
+    margin-left: 0px;
+}
+li {
+    margin: 0px 0px;
+}
+img {
+    max-width: 90%;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(255, 196, 0);
+    padding: 50px;
+    border-radius: 5% solid;
+	margin:20px auto;
+}
+#spanId {
+    font-size: 18px;
+    max-width: 50px;
+    color: aliceblue;
+}
+.divClass {
+    width: 800px;
+    margin: 0 auto;
+}
